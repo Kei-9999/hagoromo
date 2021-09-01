@@ -23,7 +23,7 @@
 
 ## 設計書
 
-<...>
+ER図：https://app.diagrams.net/#G1TytMQJf2jN13AN2plTZE6YFP7zFmuwEB
 
 ## チャレンジ要素一覧
 
